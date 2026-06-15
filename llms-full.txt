@@ -1,0 +1,51 @@
+# Geotecnia1 — Los Andes
+
+> Geotechnical engineering services in Los Andes, Chile.
+
+## Services
+- [Aislacion Sismica](https://los-andes.geotecnia1.vip/aislacion-sismica/)
+- [Anclajes](https://los-andes.geotecnia1.vip/anclajes/)
+- [Calicatas](https://los-andes.geotecnia1.vip/calicatas/)
+- [Cbr Vial](https://los-andes.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://los-andes.geotecnia1.vip/cimentaciones/)
+- [Columnas Grava](https://los-andes.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://los-andes.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://los-andes.geotecnia1.vip/ensayo-cpt/)
+- [Ensayos Proctor](https://los-andes.geotecnia1.vip/ensayos-proctor/)
+- [Estabilidad Taludes](https://los-andes.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://los-andes.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://los-andes.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://los-andes.geotecnia1.vip/exploracion/)
+- [Geotecnia Vial](https://los-andes.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://los-andes.geotecnia1.vip/granulometria/)
+- [Inyecciones](https://los-andes.geotecnia1.vip/inyecciones/)
+- [Laboratorio In Situ](https://los-andes.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://los-andes.geotecnia1.vip/laboratorio-lab/)
+- [Licuefaccion](https://los-andes.geotecnia1.vip/licuefaccion/)
+- [Limites Atterberg](https://los-andes.geotecnia1.vip/limites-atterberg/)
+- [Losas Fundacion](https://los-andes.geotecnia1.vip/losas-fundacion/)
+- [Masw](https://los-andes.geotecnia1.vip/masw/)
+- [Mejoramiento](https://los-andes.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://los-andes.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://los-andes.geotecnia1.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://los-andes.geotecnia1.vip/muros-contencion/)
+- [Pavimento Flexible](https://los-andes.geotecnia1.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://los-andes.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad In Situ](https://los-andes.geotecnia1.vip/permeabilidad-in-situ/)
+- [Pilotes](https://los-andes.geotecnia1.vip/pilotes/)
+- [Refraccion Sismica](https://los-andes.geotecnia1.vip/refraccion-sismica/)
+- [Resistividad](https://los-andes.geotecnia1.vip/resistividad/)
+- [Sismica](https://los-andes.geotecnia1.vip/sismica/)
+- [Sondajes Spt](https://los-andes.geotecnia1.vip/sondajes-spt/)
+- [Taludes](https://los-andes.geotecnia1.vip/taludes/)
+- [Triaxial](https://los-andes.geotecnia1.vip/triaxial/)
+- [Tuneles Suelo Blando](https://los-andes.geotecnia1.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://los-andes.geotecnia1.vip/vibrocompactacion/)
+- [Zapatas](https://los-andes.geotecnia1.vip/zapatas/)
+
+## Contact
+- Website: https://los-andes.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Los Andes, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
